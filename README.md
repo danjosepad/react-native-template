@@ -30,6 +30,14 @@ Esse repositório foi desenvolvido com a seguinte tecnologia:
 
 - [React Native](https://facebook.github.io/react-native/)
 
+Dependências já configuradas com esse template:
+
+- Eslint
+- Prettier
+- Styled-Components
+- Reactotron
+- React-navigation
+
 ### :book: Como usar
 
 Para alterar o nome desejado de forma simples, pode-se usar o [React Native Rename](https://www.npmjs.com/package/react-native-rename)
